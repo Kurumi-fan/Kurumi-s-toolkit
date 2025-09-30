@@ -40,9 +40,6 @@ It combines media tools, file management utilities, and everyday helpers into on
 ### 🔢 Hash Calculator
 - Calculate file hashes (MD5, SHA1, SHA256) for integrity checks
 
-### 📱 QR Code Generator
-- Generate QR codes from any text or URL
-
 ---
 
 ## ⚙️ Settings
@@ -68,4 +65,3 @@ Code kopieren
 
 ## 👤 Developer
 Developed by [Kurumi-fan](https://github.com/Kurumi-fan)  
-Part of the **Kurumi’s Projects** series.
