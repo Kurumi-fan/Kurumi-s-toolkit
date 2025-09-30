@@ -37,9 +37,6 @@ It combines media tools, file management utilities, and everyday helpers into on
 ### 📷 Batch Renamer
 - Rename groups of images with custom rules
 
-### 🔢 Hash Calculator
-- Calculate file hashes (MD5, SHA1, SHA256) for integrity checks
-
 ---
 
 ## ⚙️ Settings
